@@ -21,7 +21,7 @@ author:
 
 # Url settings
 url: ""
-baseurl: "blog-personal"
+baseurl: "/blog-personal"
 permalink: /:title/
 google_analytics:
 fb_appid:
